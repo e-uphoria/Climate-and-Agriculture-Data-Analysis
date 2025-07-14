@@ -1,0 +1,35 @@
+# Ignore raw datasets and shapefiles
+raw data/
+shapefile/
+
+# Common data file types
+*.csv
+*.xlsx
+*.xls
+*.json
+*.tsv
+
+# Shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+*.xml
+*.shp.xml
+
+# OS/Editor files (
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings 
+.vscode/
