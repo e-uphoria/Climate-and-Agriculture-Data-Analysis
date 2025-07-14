@@ -35,7 +35,7 @@ The project includes:
 
 - **Climate Data**: [Kaggle](https://www.kaggle.com/code/saimondahal/nepal-climate-data-eda-insights/input)
 - **Agriculture Data**: [Tableau Public] (https://public.tableau.com/app/profile/sadichchha1369/viz/NepaCropMapwithprovinceSAMPLE_15636442141840/Dashboard1)
-- **Geospatial Data**: (https://opendatanepal.com/dataset new-political-and-administrative-boundaries-shapefile-of-nepal)
+- **Geospatial Data**: (https://opendatanepal.com/dataset/new-political-and-administrative-boundaries-shapefile-of-nepal)
 
 ## Acknowledgement
 
